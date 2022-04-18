@@ -1,0 +1,32 @@
+.services-about-top{
+    padding: 84px 0;
+}
+.services-about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-about-box {
+    max-width: 540px;
+    margin-left: 125px;
+}
+
+.services-about-heading {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 32px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+}
+.services-about-desc {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}

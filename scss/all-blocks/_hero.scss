@@ -1,0 +1,43 @@
+.hero{
+    padding-bottom: 70px;
+}
+
+.hero__container {
+    background-image: url(../images/hero-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 116px 85px;
+    border-radius: 9px;
+}
+.hero__heading {
+    margin: 0;
+    padding: 0;
+    width: 493px;
+    margin-bottom: 32px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FEFCF7;
+}
+
+.hero__desc {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 56px;
+    width: 445px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.hero__btn:hover{
+    opacity: 0.8;
+}
+.hero__btn:active{
+    opacity: 0.4;
+}

@@ -1,0 +1,63 @@
+/* PLAN SECTION */
+.plan {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.plan-heading {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 80px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+.plan-list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin-top: 67px;
+    margin-bottom: 64px;
+    list-style: none;
+}
+.plan-item {
+    width: 285px;
+}
+.plan-item + .plan-item{
+    margin-left: 95px;
+}
+.plan-number {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-bottom: 38px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;
+}
+.plan-item-heading {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 42px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+.plan-tittle {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+.plan-btn:hover{
+    opacity: 0.8;
+}
+.plan-btn:active{
+    opacity: 0.4;
+}

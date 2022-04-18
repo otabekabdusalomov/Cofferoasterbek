@@ -1,0 +1,48 @@
+.site-quality {
+    padding-top: 160px;
+    padding-bottom: 176px;
+}
+
+.site-quality-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1280px;
+    max-height: 447px;
+    position: relative;
+    border-radius: 9px;
+    background-color: #2C343E;
+}
+.site-quality-box {
+    margin: 0;
+    margin-top: 90px;
+    margin-right: 125px;
+    margin-left: 85px;
+}
+.site-quality-heading {
+    margin: 0;
+    font-family: Fraunces 9pt;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px; 
+    color: #FEFCF7;
+    margin-bottom: 32px;
+}
+.site-quality-desc {
+    margin: 0;
+    font-family: 'Barlow';
+    font-style: normal;
+    max-width: 540px;
+    max-height: 130px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7; 
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+.site-quality-img {
+    margin-right: 85px;
+    position: relative;
+    top: -88px;
+}
